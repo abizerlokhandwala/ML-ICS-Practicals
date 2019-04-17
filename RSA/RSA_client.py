@@ -2,7 +2,6 @@ import socket
 import random
 import math
 
-
 client_socket = socket.socket()
 client_socket.connect(("localhost",5650))
 

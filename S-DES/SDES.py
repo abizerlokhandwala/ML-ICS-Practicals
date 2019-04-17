@@ -120,7 +120,7 @@ def decrypt(inp):
 
     return fin_text
 
-inp_bits = [0, 1, 1, 0, 1, 1, 0, 1]
+inp_bits = [1, 1, 1, 0, 1, 1, 0, 1]
 
 print()
 print("Plain Text is:",inp_bits)
